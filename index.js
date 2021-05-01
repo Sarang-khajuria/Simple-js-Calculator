@@ -77,3 +77,5 @@ function getInput(event) {
   event.target.value = nextStr;
   event.preventDefault();
 }
+
+//TODO: adding keypress events to the input field
